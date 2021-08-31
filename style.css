@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_play{
+    float: middle;
+}
+
+#play{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px plum;
+    border-width: 5px;
+    border-color: plum;
+}
